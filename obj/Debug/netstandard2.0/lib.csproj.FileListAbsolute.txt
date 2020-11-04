@@ -1,0 +1,8 @@
+C:\Users\Home\source\repos\lib\bin\Debug\netstandard2.0\lib.deps.json
+C:\Users\Home\source\repos\lib\bin\Debug\netstandard2.0\lib.dll
+C:\Users\Home\source\repos\lib\obj\Debug\netstandard2.0\lib.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\lib\obj\Debug\netstandard2.0\lib.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\lib\obj\Debug\netstandard2.0\lib.AssemblyInfo.cs
+C:\Users\Home\source\repos\lib\bin\Debug\netstandard2.0\lib.pdb
+C:\Users\Home\source\repos\lib\obj\Debug\netstandard2.0\lib.dll
+C:\Users\Home\source\repos\lib\obj\Debug\netstandard2.0\lib.pdb
